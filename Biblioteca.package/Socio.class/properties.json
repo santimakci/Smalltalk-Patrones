@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Biblioteca",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nombre",
+		"email",
+		"legajo"
+	],
+	"name" : "Socio",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Biblioteca",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"socios",
+		"exporter"
+	],
+	"name" : "Biblioteca",
+	"type" : "normal"
+}

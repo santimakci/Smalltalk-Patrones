@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Adapters",
+	"category" : "Biblioteca",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NeoJSONAdapter",
+	"type" : "normal"
+}
