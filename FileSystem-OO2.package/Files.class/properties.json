@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FileSystem002",
+	"category" : "FileSystem-OO2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Files",
+	"type" : "normal"
+}
