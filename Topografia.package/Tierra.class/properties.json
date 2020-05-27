@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Topografia",
+	"category" : "Topografia",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Tierra",
+	"type" : "normal"
+}
