@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "Topografia",
-	"category" : "Topografia",
+	"category" : "Topografia-Model",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

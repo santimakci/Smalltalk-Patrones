@@ -1,13 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
-	"category" : "Topografia-Model",
+	"super" : "Empleado",
+	"category" : "Sueldos-Model",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"tipo"
+		"basico",
+		"examenesRendidos"
 	],
-	"name" : "Topografia",
+	"name" : "Pasante",
 	"type" : "normal"
 }

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Empleado",
+	"category" : "Sueldos-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"horasTrabajadas",
+		"sueldoBasico",
+		"casado",
+		"numeroHijos"
+	],
+	"name" : "Temporario",
+	"type" : "normal"
+}

@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Sueldos-Test",
+	"classinstvars" : [
+		"pasante",
+		"planta"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pasante",
+		"planta",
+		"temporario"
+	],
+	"name" : "EmpleadoTest",
+	"type" : "normal"
+}

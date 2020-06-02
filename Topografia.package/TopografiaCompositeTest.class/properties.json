@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Topografia-TopografiaTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"topografia1",
+		"topografiaMixta"
+	],
+	"name" : "TopografiaCompositeTest",
+	"type" : "normal"
+}

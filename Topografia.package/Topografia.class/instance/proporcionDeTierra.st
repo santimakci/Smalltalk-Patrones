@@ -1,3 +1,3 @@
 as yet unclassified
-proporcionDeAgua 
+proporcionDeTierra
 	self subclassResponsibility 
