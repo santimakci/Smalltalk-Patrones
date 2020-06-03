@@ -1,8 +1,8 @@
 as yet unclassified
 listadoDeContenido
 	| listado |
-	listado := String new.
-	components
+	listado:= String new.
+	self components
 		do: [ :comp | 
-			listado := listado, '/', comp name, comp contenido, Character cr asString.].
+			listado := listado, (comp contenido:'') ].
 	^ listado

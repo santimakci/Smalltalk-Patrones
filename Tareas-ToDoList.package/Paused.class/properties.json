@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "State",
+	"category" : "Tareas-ToDoList",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Paused",
+	"type" : "normal"
+}

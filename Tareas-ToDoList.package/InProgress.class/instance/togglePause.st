@@ -1,0 +1,3 @@
+accessing
+togglePause 
+	^ Paused new. 
