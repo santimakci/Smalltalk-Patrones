@@ -1,3 +1,0 @@
-accessing
-newState
-	^ Pending new

@@ -6,8 +6,9 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
+		"name",
 		"state",
-		"name"
+		"comments"
 	],
 	"name" : "ToDoItem",
 	"type" : "normal"

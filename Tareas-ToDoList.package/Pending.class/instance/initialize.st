@@ -1,3 +1,4 @@
 accessing
 initialize 
-	name := 'pendiente'
+	name := 'pendiente'.
+	

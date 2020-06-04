@@ -5,7 +5,9 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"dateFinished"
+	],
 	"name" : "Finished",
 	"type" : "normal"
 }

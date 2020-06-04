@@ -1,3 +1,3 @@
 accessing
 start 
-	^ ( InProgress new )
+	^ ( InProgress newConFecha: (DateAndTime now) )

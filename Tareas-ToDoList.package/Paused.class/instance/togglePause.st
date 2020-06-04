@@ -1,3 +1,3 @@
 initialization
 togglePause 
-	^ InProgress new. 
+	^ InProgress newConFecha: dateStart. 

@@ -1,4 +1,5 @@
 initialization
 initialize: aName 
 	name := aName.
-	self setState: State newState. 
+	comments := OrderedCollection new.
+	self setState: Pending new.

@@ -1,3 +1,3 @@
 accessing
 togglePause 
-	^ Paused new. 
+	^ (Paused newConFecha: dateStart). 

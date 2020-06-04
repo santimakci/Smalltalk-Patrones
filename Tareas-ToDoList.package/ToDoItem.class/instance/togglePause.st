@@ -1,3 +1,3 @@
 accessing
-togglePause
-	self setState: state togglePause 
+togglePause 
+	self setState: (state togglePause)
