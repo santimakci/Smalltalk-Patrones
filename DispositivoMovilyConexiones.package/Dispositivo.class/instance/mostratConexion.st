@@ -1,0 +1,3 @@
+as yet unclassified
+mostratConexion
+	connection tipoConexion

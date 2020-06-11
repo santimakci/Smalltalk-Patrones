@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Calculators",
+	"category" : "DispositivoMovilyConexiones",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CRC16_Calculator",
+	"type" : "normal"
+}

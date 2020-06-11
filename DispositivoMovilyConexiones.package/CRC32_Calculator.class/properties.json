@@ -1,13 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
-	"category" : "Tareas-ToDoList",
+	"super" : "Calculators",
+	"category" : "DispositivoMovilyConexiones",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"name"
+		"crc32"
 	],
-	"name" : "State",
+	"name" : "CRC32_Calculator",
 	"type" : "normal"
 }

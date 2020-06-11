@@ -1,13 +1,13 @@
 {
 	"commentStamp" : "",
 	"super" : "Object",
-	"category" : "Tareas-ToDoList",
+	"category" : "DispositivoMovilyConexiones",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"name"
+		"img"
 	],
-	"name" : "State",
+	"name" : "DisplayConnection",
 	"type" : "normal"
 }

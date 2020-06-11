@@ -1,13 +1,16 @@
 {
 	"commentStamp" : "",
 	"super" : "Object",
-	"category" : "Tareas-ToDoList",
+	"category" : "DispositivoMovilyConexiones",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"name"
+		"ringer",
+		"display",
+		"crcCalculator",
+		"connection"
 	],
-	"name" : "State",
+	"name" : "Dispositivo",
 	"type" : "normal"
 }
