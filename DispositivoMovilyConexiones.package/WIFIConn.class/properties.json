@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "Connection",
+	"super" : "Connections",
 	"category" : "DispositivoMovilyConexiones",
 	"classinstvars" : [ ],
 	"pools" : [ ],

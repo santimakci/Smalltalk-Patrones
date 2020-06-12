@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "Calculators",
+	"super" : "Object",
 	"category" : "DispositivoMovilyConexiones",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "CRC32_Calculator",
+	"name" : "Connections",
 	"type" : "normal"
 }

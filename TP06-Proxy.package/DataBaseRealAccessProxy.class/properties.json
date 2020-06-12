@@ -1,13 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "Connections",
-	"category" : "DispositivoMovilyConexiones",
+	"super" : "DatabaseAccess",
+	"category" : "TP06-Proxy",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"conexion"
+		"database",
+		"tieneAcceso"
 	],
-	"name" : "Connection4GAdapter",
+	"name" : "DataBaseRealAccessProxy",
 	"type" : "normal"
 }

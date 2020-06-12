@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "Calculators",
-	"category" : "DispositivoMovilyConexiones",
+	"super" : "Object",
+	"category" : "TP06-Proxy",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "CRC32_Calculator",
+	"name" : "DatabaseAccess",
 	"type" : "normal"
 }

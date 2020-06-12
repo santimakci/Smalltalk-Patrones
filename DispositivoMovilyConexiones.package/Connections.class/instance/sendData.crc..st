@@ -1,3 +1,3 @@
 as yet unclassified
-simbolo
+sendData: datos crc: crc 
 	self subclassResponsibility 

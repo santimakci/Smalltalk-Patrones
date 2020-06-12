@@ -1,13 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "Connections",
-	"category" : "DispositivoMovilyConexiones",
+	"super" : "TestCase",
+	"category" : "TP06-Proxy",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"conexion"
+		"database"
 	],
-	"name" : "Connection4GAdapter",
+	"name" : "DatabaseRealAccessTestCase",
 	"type" : "normal"
 }

@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "Maki 6/12/2020 14:19",
 	"super" : "Object",
-	"category" : "DispositivoMovilyConexiones",
+	"category" : "TP06-Proxy",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"symb"
+		"users",
+		"DB"
 	],
-	"name" : "Connection4G",
+	"name" : "Sistema",
 	"type" : "normal"
 }

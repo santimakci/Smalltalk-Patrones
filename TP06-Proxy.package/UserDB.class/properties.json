@@ -1,11 +1,14 @@
 {
 	"commentStamp" : "",
 	"super" : "Object",
-	"category" : "DispositivoMovilyConexiones",
+	"category" : "TP06-Proxy",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "Connection",
+	"instvars" : [
+		"name",
+		"pass"
+	],
+	"name" : "UserDB",
 	"type" : "normal"
 }
