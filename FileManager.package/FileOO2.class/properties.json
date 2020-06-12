@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "Maki 6/12/2020 17:35",
+	"super" : "Object",
+	"category" : "FileManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nombre",
+		"extension",
+		"permisos",
+		"tamaño",
+		"fechaModificacion",
+		"fechaCreacion",
+		"datos"
+	],
+	"name" : "FileOO2",
+	"type" : "normal"
+}

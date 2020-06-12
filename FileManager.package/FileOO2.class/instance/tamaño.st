@@ -1,0 +1,3 @@
+accessing
+tamaño
+	^ tamaño

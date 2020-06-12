@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "FileOO2",
+	"category" : "FileManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"wrappee"
+	],
+	"name" : "FileOO2Decorator",
+	"type" : "normal"
+}

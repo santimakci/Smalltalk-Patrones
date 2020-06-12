@@ -1,0 +1,3 @@
+initialization
+prettyPrint
+	^ fechaCreacion 

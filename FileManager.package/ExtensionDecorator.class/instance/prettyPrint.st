@@ -1,0 +1,3 @@
+menu commands
+prettyPrint
+	^ extension 
